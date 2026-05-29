@@ -33,7 +33,7 @@ const OPTIONS: Option[] = [
   {
     id: 4,
     title: "Opción 4",
-    description: "Pull Requests", 
+    description: "Modificación A", 
     message: "Aprenderás a proponer y revisar cambios mediante Pull Requests.",
     featureFlag: false,
   },
